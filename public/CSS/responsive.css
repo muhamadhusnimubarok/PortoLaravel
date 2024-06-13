@@ -1,0 +1,14 @@
+/*android*/
+
+@media screen and(max-width:764px){
+    .container2 {
+        display:flex;
+        flex-direction: column;
+    
+    }
+    .btn {
+        display: flex;
+        justify-content: center;
+    }
+    
+}
